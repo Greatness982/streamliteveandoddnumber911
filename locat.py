@@ -72,3 +72,4 @@ if location_search:
             st.warning("⚠️ Could not find that location.")
     except Exception as e:
         st.error(f"Error: {e}")
+
