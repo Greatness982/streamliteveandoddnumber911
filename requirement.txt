@@ -1,5 +1,11 @@
+streamlit
+phonenumbers
+folium
+streamlit-folium
+geopy
 streamlit==1.36.0
 phonenumbers==8.13.45
 folium==0.15.1
 streamlit-folium==0.18.0
 geopy==2.4.1
+
